@@ -8,7 +8,7 @@ During this Course i learnt and implemented below things.
 # Spring boot starter kit dependency and its working.
 # Spring boot annotations
 # concept of IOC -Inversion of control
-# H2 Console & Querying with DAO model
+# H2 Console & JPA Repositoty & DAO model
 # Spring AOP , Aspect
 # complete understanding of a web app ( web layer, business layer, Data layer)
 # Spring MVC  -> created basic web app with a login page
