@@ -1,5 +1,5 @@
 # Spring-course
-my spring , spring boot learning for micro services
+Spring , spring boot and its concepts learning for micro services
 
 Better way to start a New Spring project:
 https://start.spring.io/  
